@@ -1,4 +1,4 @@
-# Work Unit: Compter le nombre de bits à 1
+# Write up : Compter le nombre de bits à 1
 
 ## Contexte du problème
 L'objectif est de créer une fonction qui prend en entrée un entier non négatif et retourne le nombre de bits qui sont égaux à 1 dans la représentation binaire de cet entier.

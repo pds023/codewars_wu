@@ -1,4 +1,4 @@
-# Work Unit: Convertir des mots délimités par des tirets ou des underscores en camelCase
+# Write Up : Convertir des mots délimités par des tirets ou des underscores en camelCase
 
 ## Contexte du problème
 L'objectif est de compléter une fonction qui prend en entrée une chaîne de caractères contenant des mots délimités par des tirets (`-`) ou des underscores (`_`) et retourne une chaîne formatée en camelCase.
